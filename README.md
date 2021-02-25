@@ -41,4 +41,4 @@ These concerns are further reinforced by the following research and articles abo
 1. Invest in bicycles that have baskets not only in the front, but also side mounted, so that they may be able to carry additional items with them such as groceries or purses.
 1. Include bicycles with a child seat or an option to mount your own.
 1. Work with local municipalities to install proper bike lanes and signage, make fines and laws stricter regarding bicyclists’ rights.
-1. Institute bicycle safety and awareness clinics for both cyclists and non-cyclists alike.
+1. Institute bicycle safety and awareness clinics on a periodic basis for both cyclists and non-cyclists alike.
