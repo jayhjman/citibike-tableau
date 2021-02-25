@@ -24,5 +24,10 @@ Please view the charts, story, and dashboards @ [https://public.tableau.com/prof
 
 **_Why aren't women riding as much a men?_**
 
-From the observations above it is clear that
+From the observations above it is clear that women are riding less than men, why you ask, it can be explained by the a few factors:
+
+1. Women are more risk adverse than men, meaning in short that driving in heavy traffic or crowded streets is a more riskier proposition, evalution of the risk of riding a bike leads more women to drive instead of biking.
+1. Women are more likely to be involved in household activities such as taking kids to school, purchasing groceries, or taking care of others.  These kind of activities are difficult to perform on a bicycle.  These would be barriers into using a bike...
+1. Bicycling as youth, males are generally encouraged and taught to ride a bike early on.  Studies show that as a youth even though women have been taught to ride a bike, safety is a bigger concern amongst parents with regard to female ridership, were as males are left to ride wherever they want.
+
 
