@@ -42,4 +42,4 @@ These concerns are further reinforced by the following research and articles abo
 1. Include bicycles with a child seat or an option to mount your own.
 1. Work with local municipalities to install proper bike lanes and signage, make fines and laws stricter regarding bicyclists’ rights.
 1. Institute bicycle safety and awareness clinics on a periodic basis for both cyclists and non-cyclists alike.
-1. Create a female ridership incentive program such as "a friend rides free" or "ladies night out" to encourage ridership.
+1. Create a female ridership incentive program such as "a friend rides free" or "ladies day out" to encourage ridership.
